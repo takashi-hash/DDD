@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0642: empty ステートメントが間違っている可能性があります
+dotnet_diagnostic.CS0642.severity = none
